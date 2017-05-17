@@ -1,7 +1,7 @@
 <!-- saved from url=(0113)file:///C:/Users/Murali/AppData/Roaming/Skype/My%20Skype%20Received%20Files/FINAL_eText2.0_QA_Backlinking(2).html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></head><body>
 
-<a href="http://login.cert.pearsoncmg.com/sso/SSOServlet2?cmd=login&okurl=http://www.boston.com&errurl=http://www.yahoo.com&loginname=eTnew&encPassword=N&password=Password1&siteid=154227" target="_blank">Login </a> <br>
+<a href="http://login.cert.pearsoncmg.com/sso/SSOServlet2?cmd=login&okurl=http://www.boston.com&errurl=http://www.yahoo.com&loginname=nextext_smsedupi&encPassword=N&password=Password1&siteid=154227" target="_blank">Login </a> <br>
 
 
 <form name="myForm1" id="Instructor" action="http://paperapi-qa.stg-openclass.com/nextext-api/api/platforms/xl" method="post" target="_blank">
